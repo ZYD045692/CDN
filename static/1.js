@@ -1,3 +1,1 @@
-function redirectToBaidu() {
-    window.location.href = "https://www.baidu.com";
-}
+function redirectToBaidu() {window.location.href = "https://www.baidu.com"}
